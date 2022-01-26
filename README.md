@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Ginko Sushi</title>
@@ -49,10 +48,6 @@ img {
 <p>Today's specialty</p>
 
 <img src="https://ginkosushi.lu/wp-content/uploads/2019/04/Plateau-Hiver-2020_3064_web-1024x709.jpg" alt="Tuna Nigiri">
-
-<p id="drop down menu">JavaScript can change the style of an HTML element.</p>
-
-<button type="button" onclick="<p>Tuna Nigiri</p>">Click here for more</button>
-
+  
 </body>
 </html>
